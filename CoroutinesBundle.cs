@@ -8,5 +8,6 @@ public class CoroutinesBundle : IBundle
     public void InstallBindings(DiBuilder builder)
     {
         builder.Bind<CoroutinesManager>();
+        builder.Bind<CoroutinesStage>();
     }
 }

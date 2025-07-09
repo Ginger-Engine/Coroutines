@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Engine.Coroutines")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ec8fa07b8362b3302e46c0134f317a60bc173d3c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+db2b83e7e86f0be14b732ad6f5ef68483f0587e2")]
 [assembly: System.Reflection.AssemblyProductAttribute("Engine.Coroutines")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Engine.Coroutines")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
